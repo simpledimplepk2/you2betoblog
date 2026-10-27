@@ -79,7 +79,7 @@ Exact dependency versions and source links are recorded in `_system/plugin-lock.
 
 ## License
 
-This repository's original code is MIT licensed; see [LICENSE](LICENSE). Dependencies retain their own licenses.
+This repository's original code is MIT licensed; look [LICENSE](LICENSE). Dependencies retain their own licenses.
 
 The required [video-analyzer license](https://github.com/docusphere/video-analyzer/blob/151e8782c564093c3aa7339e2adc744aab25001b/LICENSE) permits personal, educational, and non-commercial use. Commercial use requires prior written permission from its copyright holder. This repository's MIT license does not remove that restriction from the analyzer.
 
